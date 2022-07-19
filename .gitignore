@@ -1,0 +1,10 @@
+CleansedDataSets/
+Images/
+RawUptimeDataSets/
+Kmeans/DataSets/
+Running/Not\ Running\ Classification/
+MlApproach/Trees/
+Visualisations/viualisedifferences.ipynb
+*.csv
+*.jpg
+*.png
